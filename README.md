@@ -1,1 +1,2 @@
 # Flappybird
+Basic Flappybird game
